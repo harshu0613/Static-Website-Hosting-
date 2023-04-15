@@ -25,4 +25,11 @@ Creating a static website hosting
 <img width="960" alt="static hosting enabling 1" src="https://user-images.githubusercontent.com/130766443/232203231-12424ce3-2549-419f-879a-aada401d743b.png">
 
 6. Open the CloudFront and Create a distribution and select the bucket which we have created previously and wait until it gets deployed and set the url/endpoint mentioned in the domain name category and paste it in the browser with the /index.html. 
+<img width="960" alt="cloud front 1" src="https://user-images.githubusercontent.com/130766443/232203491-e625647e-cdfe-476f-911e-425ffbcbcbd0.png">
+
+<img width="960" alt="cloud front 2" src="https://user-images.githubusercontent.com/130766443/232203502-8425024b-3370-47c8-96e1-43c0a81f7144.png">
+
+<img width="960" alt="Cloud front 3" src="https://user-images.githubusercontent.com/130766443/232203507-25af78da-18b4-42f7-896b-e39d2f3fd805.png">
+
+7. HOSTED A STATIC WEBSITE 
 
