@@ -32,4 +32,10 @@ Creating a static website hosting
 <img width="960" alt="Cloud front 3" src="https://user-images.githubusercontent.com/130766443/232203507-25af78da-18b4-42f7-896b-e39d2f3fd805.png">
 
 7. HOSTED A STATIC WEBSITE 
+<img width="960" alt="website launch 1" src="https://user-images.githubusercontent.com/130766443/232205335-eb71b741-180c-499d-a807-5e2922e16ed1.png">
 
+<img width="960" alt="website launch 2" src="https://user-images.githubusercontent.com/130766443/232205338-77c8ef06-15c4-49f3-af8d-c1a0788f6e53.png">
+
+<img width="960" alt="website launch 3" src="https://user-images.githubusercontent.com/130766443/232205341-a0b750bd-71ab-408d-bd72-0e6a685fe7fd.png">
+
+<img width="960" alt="website launch 4" src="https://user-images.githubusercontent.com/130766443/232205344-e61a5808-e280-4ef4-b036-c0470005fc04.png">
