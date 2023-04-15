@@ -16,3 +16,8 @@ Creating a static website hosting
 3. Upload files for the view of the website
 <img width="960" alt="upload files" src="https://user-images.githubusercontent.com/130766443/232203182-77531c63-45d7-4afc-9bc5-3d5f5358c2df.png">
 
+4. Enable the static website hosting and give the index.html file in order to trigger the website.
+<img width="960" alt="static website enabling 2" src="https://user-images.githubusercontent.com/130766443/232203227-a5d209d0-e252-4d22-99e8-6d9a79836bbe.png">
+
+<img width="960" alt="static hosting enabling 1" src="https://user-images.githubusercontent.com/130766443/232203231-12424ce3-2549-419f-879a-aada401d743b.png">
+
